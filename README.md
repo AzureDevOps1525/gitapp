@@ -1,2 +1,3 @@
-# gitapp
-[![Build Status](https://dev.azure.com/syamsasidharchukka/AgileProject/_apis/build/status%2FAzureDevOps1525.gitapp?branchName=master)](https://dev.azure.com/syamsasidharchukka/AgileProject/_build/latest?definitionId=5&branchName=master)
+## CI/CD Pipeline for Containerised Web App (Staging Deployment)
+
+This repository contains a dummy web application and a GitHub Actions-based CI/CD pipeline that automates deployment to a staging environment on every push to the `develop` branch.
